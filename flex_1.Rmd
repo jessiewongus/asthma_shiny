@@ -166,10 +166,9 @@ renderPlotly({
 })
 ```
 
-install.packages('rsconnect')
 rsconnect::setAccountInfo(name='wongus', token='CBD08B3DB1F2781D4B50438EB1A322C6', secret='P1YKMffhHKyqcaIhP5oUAhEliZNa0DhOpps5khK2')
 library(rsconnect)
-rsconnect::deployApp('./flex_1.Rmd')
+
 getwd()
 
 removeAccount("wongus")
