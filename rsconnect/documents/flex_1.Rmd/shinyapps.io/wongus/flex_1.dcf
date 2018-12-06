@@ -5,6 +5,6 @@ account: wongus
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 604306
-bundleId: 1741244
+bundleId: 1744413
 url: https://wongus.shinyapps.io/flex_1/
-when: 1543979133.92248
+when: 1544058748.34234
